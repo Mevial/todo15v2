@@ -1,6 +1,5 @@
 import {
     AddTodolistActionType,
-    changeTodolistEntityStatusAC,
     RemoveTodolistActionType,
     SetTodolistsActionType
 } from './todolists-reducer'
